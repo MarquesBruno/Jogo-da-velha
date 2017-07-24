@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Jogo Da Velha</string>
+    <string name="ok">Ok</string>
+    <string name="circulo">o</string>
+    <string name="xis">x</string>
+    <string name="email">Email></string>
+    <string name="lista_de_produtos">Lista de Produtos</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+    <string name="admob_banner_id">ca-app-pub-1499213823043679/2676504747</string>
+    <string name="admob_interstitial_id">ca-app-pub-1499213823043679/6339491540</string>
+    <string name="anuncio">Ads</string>
+    <string name="reiniciar">Retry</string>
+    <string name="BASE64_PUBLIC_KEY">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoOT03sQzw9mOefB0vEZ6tGPdpi3ptSJO8TrPa0iiKoJ2yzRgXuFARzkyob7MUct1vC2Za</string>
+
+
+</resources>

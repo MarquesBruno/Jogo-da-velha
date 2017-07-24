@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "16985465675",
+    "firebase_url": "https://jogo-da-velha-new.firebaseio.com",
+    "project_id": "jogo-da-velha-new",
+    "storage_bucket": "jogo-da-velha-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16985465675:android:e39dfaa25c468db9",
+        "android_client_info": {
+          "package_name": "com.orange.bruno.jogodavelhanew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16985465675-tfbnj7sh1o1uof55s30fblgmjlq4a7fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlKE369mKxonTuADN3hJ7sW2yDyWZ87vU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
